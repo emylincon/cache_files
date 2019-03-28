@@ -14,6 +14,7 @@ import ast
 from pyfiglet import Figlet
 
 
+__author__ = 'Emmanuel'
 cache_size = 3
 H = 0
 M = 0
